@@ -16,7 +16,7 @@ spec:
         app: php-dbconnect
     spec:
       containers:
-      - image: praveeenkumarm373/php:latest
+      - image: sunithaar/tamilphp:latest
         imagePullPolicy: Always
         name: php-dbconnect
         resources:
