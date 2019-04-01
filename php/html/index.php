@@ -1,3 +1,3 @@
 <?php
-    echo '<p>Hello ZippyOPS rajitha</p>';
+    echo '<p>Hello ZippyOPS</p>';
 ?>
