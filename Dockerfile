@@ -22,4 +22,4 @@ COPY /php/html/index.php /var/www/html
 # take the contents of the local script/ folder, and copy to /tmp/ inside the container
 # we can run one-time scripts, downloads, and other initial processes from /tmp/
 COPY /php/script/ /tmp/
-FROM sunithaar/tamilphp:latest
+
